@@ -1,0 +1,11 @@
+rs_id,gene,effect_size,risk_allele,chromosome,disease,source,indian_correction
+rs7903146,TCF7L2,0.339,T,10,type2_diabetes,GWAS Catalog GCST002516,1.18
+rs5219,KCNJ11,0.220,T,11,type2_diabetes,GWAS Catalog GCST000308,1.12
+rs10811661,CDKN2A,0.274,C,9,type2_diabetes,GWAS Catalog GCST000308,0.95
+rs4607517,GCK,0.143,A,7,type2_diabetes,GWAS Catalog GCST000308,1.00
+rs1111875,HHEX,0.176,C,10,type2_diabetes,GWAS Catalog GCST000308,1.05
+rs13266634,SLC30A8,0.184,C,8,type2_diabetes,GWAS Catalog GCST000308,1.00
+rs4402960,IGF2BP2,0.161,T,3,type2_diabetes,GWAS Catalog GCST000308,1.00
+rs7756992,CDKAL1,0.198,G,6,type2_diabetes,GWAS Catalog GCST000308,1.00
+rs10946398,CDKAL1,0.187,C,6,type2_diabetes,GWAS Catalog GCST000308,1.00
+rs1801282,PPARG,0.214,G,3,type2_diabetes,GWAS Catalog GCST000308,1.00

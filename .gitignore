@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+venv/
+env/
+.env
+*.egg-info/
+dist/
+build/
+
+# Data (large files — don't commit to git)
+data/clinvar.db
+data/variant_summary.txt
+data/variant_summary.txt.gz
+data/chromadb/
+data/sample_test.vcf
+data/test_report.pdf
+
+# Node
+frontend/node_modules/
+frontend/.next/
+frontend/.vercel/
+frontend/out/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+logs/
+
+# Secrets
+.env
+.env.local
+.env.production

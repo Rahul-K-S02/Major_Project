@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body { font-family: 'Segoe UI', sans-serif; background: #F8FAFC; }
+
+.risk-high   { color: #DC2626; }
+.risk-mod    { color: #D97706; }
+.risk-avg    { color: #2563EB; }
+.risk-low    { color: #16A34A; }
+
+.card { @apply bg-white rounded-2xl shadow-sm border border-gray-100 p-6; }
+.btn-primary { @apply bg-primary text-white px-6 py-3 rounded-xl font-semibold hover:bg-accent transition-colors; }
+.btn-outline { @apply border-2 border-primary text-primary px-6 py-3 rounded-xl font-semibold hover:bg-primary hover:text-white transition-colors; }

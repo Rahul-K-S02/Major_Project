@@ -1,0 +1,18 @@
+rs_id,gene,effect_size,risk_allele,chromosome,disease,source,indian_correction
+rs1333049,CDKN2B,0.291,C,9,coronary_artery_disease,GWAS Catalog GCST000735,1.15
+rs4665058,ABO,0.180,A,9,coronary_artery_disease,GWAS Catalog GCST000735,1.00
+rs2241220,MTHFR,0.220,T,1,coronary_artery_disease,GWAS Catalog GCST000735,1.00
+rs9982601,SLC5A3,0.159,T,21,coronary_artery_disease,GWAS Catalog GCST000735,1.00
+rs17465637,MIA3,0.186,C,1,coronary_artery_disease,GWAS Catalog GCST000735,1.00
+rs80357906,BRCA1,0.850,A,17,breast_cancer,ClinVar RCV000048264,1.00
+rs80359550,BRCA2,0.780,C,13,breast_cancer,ClinVar RCV000048264,1.00
+rs28897672,BRCA1,0.320,T,17,breast_cancer,ClinVar RCV000048264,1.00
+rs41293455,BRCA2,0.290,A,13,breast_cancer,ClinVar RCV000048264,1.00
+rs429358,APOE,0.680,C,19,alzheimers,GWAS Catalog GCST000612,0.88
+rs7412,APOE,0.420,T,19,alzheimers,GWAS Catalog GCST000612,0.88
+rs2075650,TOMM40,0.310,G,19,alzheimers,GWAS Catalog GCST000612,1.00
+rs4420638,APOC1,0.280,G,19,alzheimers,GWAS Catalog GCST000612,1.00
+rs17367504,MTHFR,0.198,A,1,hypertension,GWAS Catalog GCST000479,1.00
+rs3918226,NOS3,0.220,T,7,hypertension,GWAS Catalog GCST000479,1.00
+rs1530440,UMOD,0.157,C,16,hypertension,GWAS Catalog GCST000479,1.00
+rs2820037,CLDN8,0.143,A,21,hypertension,GWAS Catalog GCST000479,1.00
